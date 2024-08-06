@@ -12,29 +12,24 @@
           "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/Victor-Vith/portfolio/0b8807803db63b6ca49251099736c9b1bf39edb5/assets/img/icons/linguages/JS.svg"
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "name": "Css",
+          "logo": "https://raw.githubusercontent.com/Victor-Vith/portfolio/0b8807803db63b6ca49251099736c9b1bf39edb5/assets/img/icons/linguages/Css.svg"
         },
         {
           "name": "React",
           "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-        },
-        {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "Html",
+          "logo": "https://raw.githubusercontent.com/Victor-Vith/portfolio/0b8807803db63b6ca49251099736c9b1bf39edb5/assets/img/icons/linguages/HTML.svg"
         }
       ],
       "softSkills": [
         "Empatia",
-        "Liderança",
         "Trabalho em equipe",
         "Flexibilidade",
         "Organização"
@@ -49,30 +44,20 @@
     "portfolio": [
       {
         "name": "criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "url": "https://github.com/Victor-Vith/JS-Pokedex",
         "github": true
       },
       {
         "name": "criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "url": "https://github.com/Victor-Vith/portfolio",
         "github": true
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-      },
-      {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Garçom Master / Hoteis Sky",
+        "period": "2019 - 2024",
+        "description": "Anos de muito aprendizado como profissional e como pessoa, construi muitas Habilidades."
       }
     ]
   }

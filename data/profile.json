@@ -3,7 +3,7 @@
   "photo": "https://avatars.githubusercontent.com/u/173010306?v=4",
   "job": "Junior developer",
   "location": "Canela - RS",
-  "phone": "(54) 9650-4575",
+  "phone": "Formando em Analise e Desenvolvimento de Sistemas",
   "email": "victorvith1@outlook.com",
   "skills": {
     "hardSkills": [
@@ -50,6 +50,11 @@
     {
       "name": "criação de uma página de portfolio",
       "url": "https://github.com/Victor-Vith/portfolio",
+      "github": true
+    },
+    {
+      "name": "minhas formações na DIO",
+      "url": "https://www.dio.me/users/victorvith1",
       "github": true
     }
   ],

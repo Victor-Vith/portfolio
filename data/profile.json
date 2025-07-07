@@ -1,7 +1,7 @@
 {
   "name": "Victor Vith Vieira",
   "photo": "https://avatars.githubusercontent.com/u/173010306?v=4",
-  "job": "Junior developer",
+  "job": "ADM",
   "location": "Canela-RS",
   "phone": "Formação em Analise e Desenvolvimento de Sistemas ",
   "email": "victorvith1@outlook.com",
@@ -37,7 +37,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
+    "Inglês (iniciante)",
     "Espanhol (intermediário)",
     "Alemão (iniciante)"
   ],
@@ -65,9 +65,9 @@
   ],
   "professionalExperience": [
     {
-      "name": "Garçom Master / Hoteis Sky",
-      "period": "2019 - 2024",
-      "description": "Anos de muito aprendizado como profissional e como pessoa, construi muitas Habilidades."
+      "name": "Auxiliar Administrativo / Trombini SA",
+      "period": "atual",
+      "description": "Anos de muito aprendizado como profissional e como pessoa, construi muitas Habilidades interpessoais."
     }
   ]
 }

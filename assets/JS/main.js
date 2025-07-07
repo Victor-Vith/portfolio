@@ -70,4 +70,18 @@ function updateProfessionalExperience(profileData) {
     updateProfessionalExperience(profileData)
 })()
 
-
+(async () => {
+    try {
+      const profileData = await fetchProfileData();
+      console.log("✅ Dados recebidos:", profileData);
+      updateProfileInfo(profileData);
+      updateSoftSkills(profileData);
+      updateHardSkills(profileData);
+      updateLanguages(profileData);
+      updatePortfolio(profileData);
+      updateProfessionalExperience(profileData);
+    } catch (error) {
+      console.error("🚨 Erro ao carregar dados:", error);
+    }
+  })();
+  

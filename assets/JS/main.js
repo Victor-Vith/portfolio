@@ -12,9 +12,8 @@ function updateProfileInfo(profileData) {
     const location = document.getElementById('profile.location')
     location.innerText = profileData.location
 
-    const formation = document.getElementById('profile.formation')
-    formation.innerText = profileData.formation
-    formation.href = `form:${profileData.formation}`
+    const education = document.getElementById('profile.education')
+    education.innerText = profileData.education
 
     const email = document.getElementById('profile.email')
     email.innerText = profileData.email

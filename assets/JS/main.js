@@ -12,9 +12,9 @@ function updateProfileInfo(profileData) {
     const location = document.getElementById('profile.location')
     location.innerText = profileData.location
 
-    const phone = document.getElementById('profile.phone')
-    phone.innerText = profileData.phone
-    phone.href = `tel:${profileData.phone}`
+    const formation = document.getElementById('profile.formation')
+    formation.innerText = profileData.formation
+    formation.href = `form:${profileData.formation}`
 
     const email = document.getElementById('profile.email')
     email.innerText = profileData.email
